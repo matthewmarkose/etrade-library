@@ -1,4 +1,4 @@
-package bot.sdk.account.account;
+package com.markose.etrade.account;
 
 public enum View {
 	PERFORMANCE, FUNDAMENTAL, OPTIONSWATCH, QUICK, COMPLETE;

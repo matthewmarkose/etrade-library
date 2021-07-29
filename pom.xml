@@ -7,6 +7,32 @@
     <groupId>io.github.matthewmarkose</groupId>
     <artifactId>etrade-library</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+
+    <name>Etrade Library</name>
+    <description>Library useful for Etrade API</description>
+    <url>http://github.com/simpligility/ossrh-demo</url>
+    <developers>
+        <developer>
+            <name>Matthew Markose</name>
+            <email>matt.markose@gmail.com</email>
+            <organization>Matthew's Projects</organization>
+            <organizationUrl>https://www.linkedin.com/in/matthew-markose-821b82130/</organizationUrl>
+        </developer>
+    </developers>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-annotations</artifactId>
+            <version>2.12.3</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-core</artifactId>
+            <version>5.2.8.RELEASE</version>
+        </dependency>
+    </dependencies>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>

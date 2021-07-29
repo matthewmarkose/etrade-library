@@ -1,4 +1,4 @@
-package bot.sdk.account.account;
+package com.markose.etrade.account;
 
 public class Cash {
 	private int fundsForOpenOrdersCash;

@@ -1,6 +1,4 @@
-package bot.sdk.account.account;
-
-import org.apache.commons.lang.StringUtils;
+package com.markose.etrade.account;
 
 public enum SecurityTypeEnum {
 	ALL("ALL"), EQ("EQ"), OPTN("OPTN"), MMF("MMF"), MF("MF"), BONDS("BONDS");
@@ -12,6 +10,6 @@ public enum SecurityTypeEnum {
 	}
 
 	public String getName() {
-		return StringUtils.lowerCase(this.name);
+		return this.name;
 	}
 }

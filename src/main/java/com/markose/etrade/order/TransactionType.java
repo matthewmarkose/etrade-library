@@ -1,4 +1,4 @@
-package bot.sdk.order.order;
+package com.markose.etrade.order;
 
 public enum TransactionType {
 	ATNM, BUY, SELL, SELL_SHORT, BUY_TO_COVER, MF_EXCHANGE;

@@ -1,4 +1,4 @@
-package bot.sdk.order.order;
+package com.markose.etrade.order;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

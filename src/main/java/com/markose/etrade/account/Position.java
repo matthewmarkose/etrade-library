@@ -1,8 +1,8 @@
-package bot.sdk.account.account;
+package com.markose.etrade.account;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-import bot.sdk.market.market.Product;
+import com.markose.etrade.market.Product;
 
 public class Position {
 	private long positionId;

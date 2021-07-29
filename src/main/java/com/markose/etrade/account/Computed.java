@@ -1,4 +1,4 @@
-package bot.sdk.account.account;
+package com.markose.etrade.account;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

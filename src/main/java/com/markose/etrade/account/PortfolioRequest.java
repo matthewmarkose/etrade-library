@@ -1,6 +1,6 @@
-package bot.sdk.account.account;
+package com.markose.etrade.account;
 
-import bot.sdk.order.order.MarketSession;
+import com.markose.etrade.order.MarketSession;
 
 public class PortfolioRequest {
 	private String accountIdKey;

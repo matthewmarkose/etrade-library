@@ -1,4 +1,4 @@
-package bot.sdk.order.order;
+package com.markose.etrade.order;
 
 public class CancelOrderRequest {
 	private long orderNum;

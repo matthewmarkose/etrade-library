@@ -1,4 +1,4 @@
-package bot.sdk.account.account;
+package com.markose.etrade.account;
 
 public enum TransactionGroupingEnum {
 	DEPOSITS("DEPOSITS"), SWEEP("SWEEP"), TRADES("TRADES"), WITHDRAWALS("WITHDRAWALS"), CASH("CASH");

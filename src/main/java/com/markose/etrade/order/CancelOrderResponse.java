@@ -1,4 +1,4 @@
-package bot.sdk.order.order;
+package com.markose.etrade.order;
 
 public class CancelOrderResponse {
 	private String accountId;

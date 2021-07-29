@@ -1,4 +1,4 @@
-package bot.sdk.account.account;
+package com.markose.etrade.account;
 
 public final class TransactionRequest {
 	private String accountIdKey;

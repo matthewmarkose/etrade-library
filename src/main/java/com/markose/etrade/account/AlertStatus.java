@@ -1,4 +1,4 @@
-package bot.sdk.account.account;
+package com.markose.etrade.account;
 
 public enum AlertStatus {
 	UNREAD, READ, DELETED, UNDELETED;

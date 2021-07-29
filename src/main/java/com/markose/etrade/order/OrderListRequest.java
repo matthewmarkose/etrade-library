@@ -1,6 +1,6 @@
-package bot.sdk.order.order;
+package com.markose.etrade.order;
 
-import bot.sdk.market.market.SecurityType;
+import com.markose.etrade.market.SecurityType;
 
 public class OrderListRequest {
 	private String accountIdKey;

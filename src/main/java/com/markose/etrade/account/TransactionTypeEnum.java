@@ -1,4 +1,4 @@
-package bot.sdk.account.account;
+package com.markose.etrade.account;
 
 public enum TransactionTypeEnum {
 	ATM("ATM"), ASSIGNMENT("ASSIGNMENT"), CHECK("CHECK"), CONTRIBUTION("CONTRIBUTION"), CORPORATEACTIONS(

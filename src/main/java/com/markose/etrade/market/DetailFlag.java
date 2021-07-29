@@ -1,4 +1,4 @@
-package bot.sdk.market.market;
+package com.markose.etrade.market;
 
 public enum DetailFlag {
 	ALL, FUNDAMENTAL, INTRADAY, OPTIONS, WEEK_52;

@@ -1,8 +1,8 @@
-package bot.sdk.market.market;
+package com.markose.etrade.market;
 
 import org.springframework.lang.NonNull;
 
-import bot.sdk.order.order.PriceType;
+import com.markose.etrade.order.PriceType;
 
 public class OptionChainRequest {
 	@NonNull

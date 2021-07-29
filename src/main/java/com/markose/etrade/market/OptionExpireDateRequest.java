@@ -1,4 +1,4 @@
-package bot.sdk.market.market;
+package com.markose.etrade.market;
 
 import org.springframework.lang.NonNull;
 

@@ -1,8 +1,8 @@
-package bot.sdk.account.account;
+package com.markose.etrade.account;
 
 import com.fasterxml.jackson.annotation.JsonAlias;
 
-import bot.sdk.market.market.Product;
+import com.markose.etrade.market.Product;
 
 public class Brokerage {
 	@JsonAlias("Product")

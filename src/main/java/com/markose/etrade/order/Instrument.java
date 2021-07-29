@@ -1,8 +1,8 @@
-package bot.sdk.order.order;
+package com.markose.etrade.order;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-import bot.sdk.market.market.Product;
+import com.markose.etrade.market.Product;
 
 public class Instrument {
 	private String symbolDescription;

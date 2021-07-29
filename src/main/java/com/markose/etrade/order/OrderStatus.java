@@ -1,4 +1,4 @@
-package bot.sdk.order.order;
+package com.markose.etrade.order;
 
 public enum OrderStatus {
 	OPEN, EXECUTED, CANCELLED, INDIVIDUAL_FILLS, CANCEL_REQUESTED, EXPIRED, REJECTED, PARTIAL, DO_NOT_EXERCISE, DONE_TRADE_EXECUTED;

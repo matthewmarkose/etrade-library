@@ -1,4 +1,4 @@
-package bot.sdk.market.market;
+package com.markose.etrade.market;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
