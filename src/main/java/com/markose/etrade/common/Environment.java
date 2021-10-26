@@ -1,4 +1,4 @@
-package bot.sdk.common.client;
+package com.markose.etrade.common;
 
 public enum Environment {
 	SANDBOX, LIVE;
