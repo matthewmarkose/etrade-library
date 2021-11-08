@@ -10,6 +10,7 @@ public class Product {
 	private int expiryDay;
 	private int strikePrice;
 	private String callPut;
+	private ProductId productId;
 
 	public String getCompanyName() {
 		return companyName;
@@ -81,5 +82,13 @@ public class Product {
 
 	public void setCallPut(String callPut) {
 		this.callPut = callPut;
+	}
+
+	public ProductId getProductId() {
+		return productId;
+	}
+
+	public void setProductId(ProductId productId) {
+		this.productId = productId;
 	}
 }
